@@ -17,6 +17,7 @@ Energy-efficient system
 
 User-friendly interface
 
+
 Technologies Used:
 
 Cisco Packet Tracer
@@ -26,6 +27,7 @@ IoT (Internet of Things)
 Wireless Networking (Wi-Fi)
 
 Sensors (Motion, Temperature, Smoke)
+
 
 System Architecture:
 
