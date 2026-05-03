@@ -1,9 +1,9 @@
 # Smart-Home-Automation-System
-Overview
+Overview:
 
 This project is a Smart Home Automation system developed using Cisco Packet Tracer and IoT concepts. It allows users to remotely control and monitor home devices such as lights, fans, and security systems. The system uses sensors to detect environmental conditions like temperature, motion, and smoke, providing automation and improving safety, comfort, and energy efficiency.
 
-Features
+Features:
 
 Remote control of smart devices
 
@@ -17,7 +17,7 @@ Energy-efficient system
 
 User-friendly interface
 
-Technologies Used
+Technologies Used:
 
 Cisco Packet Tracer
 
